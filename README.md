@@ -8,6 +8,7 @@ Bu proje, kendimi tanıttığım statik bir web sitesidir. HTML ve CSS kullanıl
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 - [Dosya Yapısı](#dosya-yapısı)
+- [Ekran Görüntüleri](#ekran-goruntuleri)
 
 ## Özellikler
 
@@ -55,7 +56,6 @@ kisisel-web-sitesi/
 └── README.md          # Proje açıklama dosyası
 
 ## Ekran Görüntüleri
-
 
 ![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/hakk%C4%B1mda.png)
 
