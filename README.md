@@ -47,7 +47,7 @@ kisisel-web-sitesi/
 │   ├── style.css      # Ana stil dosyası
 │
 ├── js/
-│   ├── script.js      # Ana JavaScript dosyası (eğer kullanıldıysa)
+│   ├── script.js      # Ana JavaScript dosyası 
 │
 ├── images/
 │   ├── ...            # Site için kullanılan resimler
@@ -57,11 +57,11 @@ kisisel-web-sitesi/
 ## Ekran Görüntüleri
 
 
-![Hakkımda](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/hakk%C4%B1mda.png)
+![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/hakk%C4%B1mda.png)
 
 
-![Yetenekler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/yetenekler.png)
+![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/yetenekler.png)
 
-![Sevdiğim Kitaplar](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/sevdi%C4%9Fim%20kitaplar.png)
+![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/sevdi%C4%9Fim%20kitaplar.png)
 
-![Sevdiğim Filmler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/filmler.png)
+![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/filmler.png)
