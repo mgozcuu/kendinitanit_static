@@ -2,6 +2,12 @@
 
 Bu proje, kendimi tanıttığım statik bir web sitesidir. HTML ve CSS kullanılarak oluşturulmuştur. Web sitesi, hakkımda bilgi, yeteneklerim, sevdiğim kitaplar ve sevdiğim filmler bölümlerini içermektedir. Sevdiğim filmler bölümünde, her filme tıkladığınızda ilgili IMDb sayfasına yönlendirilirsiniz.
 
+## İçindekiler
+
+- [Özellikler](#özellikler)
+- [Kurulum](#kurulum)
+- [Ekran Görüntüleri](#ekran-goruntuleri)
+- [Kullanım](#kullanım)
 
 ## Özellikler
 
@@ -22,6 +28,20 @@ Projeyi kendi bilgisayarınıza klonlamak için aşağıdaki adımları izleyebi
     ```bash
     cd kisisel-web-sitesi
     ```
+
+## Ekran Görüntüleri
+
+### Hakkımda Sayfası
+![Hakkımda](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/hakk%C4%B1mda.png)
+
+### Yetenekler Sayfası
+![Yetenekler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/yetenekler.png)
+
+### Sevdiğim Kitaplar Sayfası
+![Sevdiğim Kitaplar](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/sevdi%C4%9Fim%20kitaplar.png)
+
+### Sevdiğim Filmler Sayfası
+![Sevdiğim Filmler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/filmler.png)
 
 ## Kullanım
 
@@ -47,18 +67,4 @@ kisisel-web-sitesi/
 │   ├── ...            # Site için kullanılan resimler
 │
 └── README.md          # Proje açıklama dosyası
-
-## Ekran Görüntüleri
-
-### Hakkımda Sayfası
-![Hakkımda](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/hakk%C4%B1mda.png)
-
-### Yetenekler Sayfası
-![Yetenekler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/yetenekler.png)
-
-### Sevdiğim Kitaplar Sayfası
-![Sevdiğim Kitaplar](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/sevdi%C4%9Fim%20kitaplar.png)
-
-### Sevdiğim Filmler Sayfası
-![Sevdiğim Filmler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/filmler.png)
 
