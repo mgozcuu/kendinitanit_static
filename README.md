@@ -6,7 +6,7 @@ Bu proje, kendimi tanıttığım statik bir web sitesidir. HTML ve CSS kullanıl
 
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
-- [Ekran Görüntüleri](#ekran-goruntuleri)
+- [Ekran Görüntüleri](#ekran-görüntüleri)
 - [Kullanım](#kullanım)
 
 ## Özellikler
