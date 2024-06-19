@@ -57,11 +57,15 @@ kisisel-web-sitesi/
 
 ## Ekran Görüntüleri
 
-![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/hakk%C4%B1mda.png)
+### Hakkımda Sayfası
+![Hakkımda](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/hakk%C4%B1mda.png)
 
+### Yetenekler Sayfası
+![Yetenekler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/yetenekler.png)
 
-![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/yetenekler.png)
+### Sevdiğim Kitaplar Sayfası
+![Sevdiğim Kitaplar](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/sevdi%C4%9Fim%20kitaplar.png)
 
-![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/sevdi%C4%9Fim%20kitaplar.png)
+### Sevdiğim Filmler Sayfası
+![Sevdiğim Filmler](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/filmler.png)
 
-![](https://github.com/mihrapgozcu/kendinitanit_static/blob/main/filmler.png)
