@@ -2,12 +2,6 @@
 
 Bu proje, kendimi tanıttığım statik bir web sitesidir. HTML ve CSS kullanılarak oluşturulmuştur. Web sitesi, hakkımda bilgi, yeteneklerim, sevdiğim kitaplar ve sevdiğim filmler bölümlerini içermektedir. Sevdiğim filmler bölümünde, her filme tıkladığınızda ilgili IMDb sayfasına yönlendirilirsiniz.
 
-## İçindekiler
-
-- [Özellikler](#özellikler)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Ekran Görüntüleri](#ekran-goruntuleri)
 
 ## Özellikler
 
